@@ -4,3 +4,4 @@ Initial implementations to be done in numpy, then ported to Tensorflow.
 
 Presently contains:
 Monte Carlo Policy Gradients
+Actor Critic
