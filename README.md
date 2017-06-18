@@ -1,2 +1,0 @@
-# rnn
-RNN architecture implementations
